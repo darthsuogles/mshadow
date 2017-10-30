@@ -19,3 +19,6 @@ dmlc-core
 *.db
 *.bak
 build
+
+# Temporary build directory
+build-tree
